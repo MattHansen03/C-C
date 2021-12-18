@@ -1,11 +1,21 @@
-body{
-    color: black;
-    font-family: papyrus;
+/* Matthew Hansen - 12/17/21 */
+.cta {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background-color: rgb(68 101 169 / 33%);
 }
-h2{
-    color: cadetblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+
+.nepal .nepal-img {
+    width: 50%;
+    float: none;
 }
-a:hover{
-    color: chartreuse;
+
+#mainNav {
+    background-color: rgb(68 101 169 / 33%);
 }
+
+.footer {
+    background-color: rgb(68 101 169 / 33%);
+  }
+
+  
