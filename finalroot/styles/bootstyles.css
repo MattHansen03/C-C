@@ -1,0 +1,70 @@
+/* Matthew Hansen - 12/17/21 */
+site-heading-upper{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.topbar{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+  }
+
+.topbar a{ 
+  background-color: rgb(252, 252, 252);
+    border: 1px solid black;
+    padding: 1rem;
+  }
+
+  .topbar-font{
+    font-size: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+  }
+
+  .topbar-shrink {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+  }
+
+p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+  }
+
+.tableauPlaceholder{
+    size: 25%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 10px;
+    height: 5%;
+    width: 5%;
+}
+.row{
+    display: flex;
+}
+
+.column{
+    flex: 50%;
+    padding: 5px;
+}
+
+.row_2{
+    display: flex;
+}
+
+.column_2{
+    flex: 50%;
+    padding: 5px;
+}
+
+.references a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+  }
